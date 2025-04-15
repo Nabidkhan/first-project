@@ -1,0 +1,194 @@
+/*aita dhoren shudhu uporer*/
+body{
+    margin: 0%;
+}
+.upper{
+    background-color: rgb(255, 255, 255);
+    height: 35px;
+}
+#logo{
+   margin-top: 0%;
+   font-size: 20px;
+   margin-left: 28px;
+}
+#About{
+    margin-left: 1100px;
+}
+.About{
+    margin: 10px;
+}
+p{
+    display: inline-block;
+}
+
+
+/*middle lowe part bro */
+
+.lower{
+    height: 305px;
+    width: 850px;
+    margin-top: 25px;
+    margin-left: 31px;
+    
+    display: inline-block;
+}
+.btn{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    padding: 15px;
+    padding-left: 43px;
+    padding-right: 43px;
+    margin-top: 30px;
+    transition: all 0.3s;
+}
+#myh1{
+    color: rgb(26, 25, 25);
+    
+}
+.pic{
+    display: inline-block;
+    height: 200px;
+    border-radius: 25px;
+    width: 200px;
+    margin-left: 100px;
+    border: 2px solid black;  
+    margin-top: 25px;
+    background-image: url(483711991_2472751879738793_48549987451339455_n.jpg);
+    background-size: cover;
+    
+}
+.btn:hover{
+    background-color: rgb(73, 73, 73);
+    color: aliceblue;
+    transform: translateX(0px);
+}
+.btn:active{
+    background-color: rgb(114, 114, 114);
+}
+
+/* logos */
+
+.logos{
+    height: 40px;
+    width: 1300px;
+    margin-left: 26px;
+    
+    
+    
+}
+img{
+    height: 25px;
+    margin-top: 0;
+    margin-left:146px;
+}
+#sam{
+    height: 15px;
+}
+.trigga{
+    height: 300px;
+    width: 300px;
+    
+    margin-left: 90px;
+    display: inline-block;
+    margin-top: 17px;
+    text-align: center;
+    
+}
+.broda{
+    margin-top: 3px;
+    height: 110px;
+    margin-left: 10px;
+}
+/*header done brther*/
+
+
+/*done with pics */
+.textmain{
+    height:690px;
+    width: 1330px;
+    
+    margin-left: 10px;
+}
+#mynabid{
+    text-align: center;
+}
+.gigga{
+    margin-top:30px;
+    height: 250px;
+    width: 250px;
+}
+/* ah uh au*/
+
+.testimonial{
+    height: 800px;
+    width: 1330px;
+    
+    margin-left: 10px;
+    text-align: center;
+}
+.cards{
+    height: 300px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+/*main  section done*/
+
+.firsthaf{
+    height: 400px;
+    width: 620px;
+    
+    display: inline-block;
+}
+.secondhaf{
+    height: 400px;
+    width: 620px;
+    
+    display: inline-block;
+    
+}
+.uhuh{
+    margin-left: 40px;
+}
+.trigga{
+    height:40px;
+    width: 350px;
+    margin-top: 100px;
+    background-color: white;
+    border: none;
+    
+}
+#bruh{
+    margin-top: 10px;
+    border: 2px solid black;
+}
+#mysubmit2{
+    height: 40px;
+    margin-top: 10px;
+    width:100px ;
+    margin-left: 90px;
+    background-color: rgb(46, 46, 46);
+    color: aliceblue;
+    transition: all 0.3s;
+}
+#mysubmit2:hover{
+    background-color: rgb(88, 88, 88);
+    transform: translateX(0px);
+}
+#mysubmit2:active{
+    background-color: rgb(255, 255, 255);
+}
+#naga{
+    height: 120px;
+    margin-left: 0%;
+}
+#u1{
+    border: 2px solid black;
+}
+
+
+
+
+
+#apple{
+    height:34px;
+}
